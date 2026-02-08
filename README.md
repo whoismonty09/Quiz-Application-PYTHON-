@@ -1,4 +1,4 @@
-# Day 16 - Quiz Application (Python)
+# Quiz Application (Python)
 
 ## Description
 This project is a simple Quiz Application built using Python. It presents multiple-choice questions to the user, evaluates the answers, and displays the final score at the end of the quiz. The project demonstrates the use of lists, dictionaries, loops, and conditional statements.
