@@ -18,7 +18,7 @@ questions = [
 
 score = 0
 
-print("Welcome to the Quiz Application!\n")
+print("Welcome to the Quiz Application developed by Monty\n")
 
 for q in questions:
     print(q["question"])
